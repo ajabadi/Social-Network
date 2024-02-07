@@ -55,7 +55,7 @@ The API supports the following routes:
 - **DELETE /api/thoughts/:thoughtId/reactions**: Delete a reaction from a thought.
 
 ## Walkthrough Video
-(Walkthrough video)[https://app.screencastify.com/v3/watch/Iam2xEYgtGwaTvp2juJl] for the user
+[Walkthrough video](https://app.screencastify.com/v3/watch/Iam2xEYgtGwaTvp2juJl) for the user
 
 <img width="1228" alt="Screen Shot 2024-02-06 at 18 37 59" src="https://github.com/ajabadi/Social-Network/assets/145517793/91f82488-6a37-4ca8-8e5b-dc083e887edc">
 
